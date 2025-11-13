@@ -12,9 +12,6 @@ Script Purpose:
 -- ========================
 -- CRM Tables
 -- ========================
-RAISE NOTICE '----------------------------------------';
-RAISE NOTICE 'Loading CRM tables';
-RAISE NOTICE '----------------------------------------';
 
 DROP TABLE IF EXISTS bronze.crm_cust_info CASCADE;
 CREATE TABLE bronze.crm_cust_info (
@@ -54,9 +51,7 @@ CREATE TABLE bronze.crm_sales_details (
 -- ========================
 -- ERP Tables
 -- ========================
-RAISE NOTICE '----------------------------------------';
-RAISE NOTICE 'Loading ERP tables';
-RAISE NOTICE '----------------------------------------';
+
 
 DROP TABLE IF EXISTS bronze.erp_cust_az12 CASCADE;
 CREATE TABLE bronze.erp_cust_az12 (
