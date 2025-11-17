@@ -1,5 +1,4 @@
-Ah bro, got you — you want a **Gold layer data catalog** where each column has a **clear, business-friendly description**, without source references.
-Here’s a polished version:
+
 
 ---
 
@@ -64,6 +63,4 @@ Here’s a polished version:
 
 ---
 
-If you want, bro, I can also **polish this further into a Confluence/Markdown-ready table with bolded headers and aligned columns**, so it looks **professional in documentation**.
 
-Do you want me to do that next?
